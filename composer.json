@@ -1,5 +1,5 @@
 {
-    "name":        "hwi/oauth-bundle",
+    "name":        "maedchenflohmarkt/oauth-bundle",
     "type":        "symfony-bundle",
     "description": "Support for authenticating users using both OAuth1.0a and OAuth2 in Symfony2.",
     "keywords":    [
@@ -46,7 +46,7 @@
         "yandex",
         "37signals"
     ],
-    "homepage":    "http://github.com/hwi/HWIOAuthBundle",
+    "homepage":    "http://github.com/maedchenflohmarkt/HWIOAuthBundle",
     "license":     "MIT",
 
     "authors": [
